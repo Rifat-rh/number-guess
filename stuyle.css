@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+   
+}
+.hesiding{
+    gap: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+}
+.again_button{
+    background-color: rgb(139, 234, 139);
+    color: white;
+    height: 50px;
+    width: 130px;
+    border-radius: 40%;
+    cursor: pointer;
+}
+
+
+.midle{
+    display: flex;
+    margin: 40px;
+    /* align-items: center; */
+    justify-content: center;
+    background-color: rgb(29, 36, 42);
+    gap: 150px;
+    height: 100vh;
+    border-radius: 10%;
+}
+.input{
+    width: 30%;
+    height: 15%;
+    font-size: 100%;
+    margin-top: 7%;
+}
+.number{
+    width: 100%;
+    height: 100%;
+    border-radius: 20%;
+    font-size: 100px;
+    text-align: center;
+}
+.Cheak{
+    height: 100px;
+    width: 100px;
+    border-radius: 20px;
+    margin-top: 30px;
+    font-size: 30px;
+    cursor: pointer;
+}
